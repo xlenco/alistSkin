@@ -6,9 +6,11 @@
 配置说明：
 1.代码配置：
 js - alistSkin.js 配置
-
 2.后台配置-[上传至Alist后台的 自定义头部]：
-<link rel="stylesheet" type="text/css" href="路径/alistSkin.css" />
-<script type="text/javascript" src="路径/jquery.min.js"></script>
-<script type="text/javascript" src="路径/alistSkin.js"></script>
+直接引用：
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/xilej/alistSkin/css/alistSikn.css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/xilej/alistSkin/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/xilej/alistSkin/js/alistSkin.js"></script>`
+
+
 
